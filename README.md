@@ -2,11 +2,10 @@
 
 A collection of one-click buttons and scripts for deploying [code-server](https://github.com/cdr/code-server) to various cloud hosting platforms. The fastest way to get a code-server environment! ☁️
 
-|                                                                                                                 | Name              | Type          | Lowest-Price Plan             | Deploy                                                  |
+|                                                                                                                 | Name              | Type          | Specifications                | Deploy                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ----------------- | ------------- | ----------------------------- | ------------------------------------------------------- |
 | [![Railway](img/logo/railway.png)](https://railway.app)                                                         | Railway           | Container     | Free, Shared CPU, 1 GB RAM 🚀 | [see guide](guides/railway.md)                          |
 | [![Heroku](img/logo/heroku.png)](https://heroku.com)                                                            | Heroku            | Container     | Free, 1 CPU, 512 MB RAM       | [see guide](guides/heroku.md)                           |
-| [![Coder](img/logo/coder.png)](https://coder.com/docs)                                                          | Coder             | Dev Workspace | For developer teams 👨🏼‍💻        | [read the docs](https://coder.com/docs)                 |
 
 ---
 
